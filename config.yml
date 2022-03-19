@@ -25,6 +25,9 @@ languages:
                 - name: Archive
                   url: archives
                   weight: 5
+                - name: Projects
+                  url: projects
+                  weight: 10
                 - name: Search
                   url: search/
                   weight: 10

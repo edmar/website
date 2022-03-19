@@ -6,7 +6,7 @@ date: 2022-03-15
 tags: ["investments"]
 author: "Edmar Ferreira"
 # author: ["Me", "You"] # multiple authors
-showToc: true
+showToc: false
 TocOpen: false
 draft: false
 hidemeta: false
@@ -21,12 +21,6 @@ searchHidden: true
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
-cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
 ---
 
 I want to build a future in which I'm excited to live. The most exciting changes in the world since I was born were created by Startups.  Here are some things that were not possible when I was born:
