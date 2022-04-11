@@ -98,10 +98,11 @@ params:
             -
             - You can follow my journey by subscribing to **[Why I Invested](https://whyiinvested.com/)**, a Newsletter where I publish a detailed investment memo for every company I decide to invest.
           
-
     socialIcons:
         - name: "twitter"
           url: "https://twitter.com/edmarferreira"
+        - name: Linkedin
+          url: "https://www.linkedin.com/in/edmarferreira"
         - name: RsS
           url: "index.xml"
 
